@@ -1,2 +1,2 @@
 # MLProject
-Machine Learning Project
+The machine learning project involves scraping data from a professional networking platform called Instahyre using the Python library Beautiful Soup, selenium or a similar tool. The collected data was analyzed to provide insights using Python libraries, Pandas, NumPy, Seaborn, SQL, Excel and Power BI. The goal is to create a search bar where users can input skills such as Java, Python, or other relevant skills and predict the results by using different ML models. Here, best fit Classification models were used. Once a keyword is searched, the following information will be displayed: Most common experience level, Most common industry, Most common Company Class, Number of Jobs available.
