@@ -51,10 +51,11 @@ The project is organized into the following components:
 
 
 
-### machine learning model:
+### Machine Learning Model:
 After analysing data , created machine learning models used for predictions of number of job vacancies , size of company , designation of job and industry type from user input skills which then trained using various models which includes kmeans , and various classification models and saved before deploying the Streamlit web application. The model should take user-input skills and provide predictions for the number of jobs available, company size, industry type, and job designation. Model with best desired metrics was selected and integrated to webapp
 
-![models](https://github.com/Shreyasoni11/MLProject/assets/136992653/03efa0a1-5b2b-490c-8a61-8239be5a1aac)
+![ss](https://github.com/Shreyasoni11/MLProject/assets/136992653/2cd4fc54-fba4-4747-9f44-bc0cdfaa9b43)
+
 
 
 ### created webapp:
