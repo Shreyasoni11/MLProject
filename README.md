@@ -10,7 +10,7 @@ The machine learning project involves scraping data from a professional networki
 | Files/Folder| Description |
 | ------------- | ------------- |
 | **Python File** | This contains the .ipynb files related to the web scrapping part, Data Cleaning and different Machiene Learning Models.  |
-| **Project Prestation** | This file have the dashboards and insights of the project. |
+| **Project Prestation** | This file have the PowerBi dashboards, Presentation and insights of the project. |
 
 ## OBJECTIVE
 This job analysis project aims to analyze and evaluate various job roles within an organization to gain insights into their responsibilities, skills, and qualifications. job analysis provides you with valuable insights that can inform your job search strategy, improve your application materials, and guide your career decisions. By utilizing job analysis information, you can present yourself as a strong candidate, align your career aspirations with suitable roles, and identify areas for professional development.
